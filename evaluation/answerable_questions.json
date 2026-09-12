@@ -1,0 +1,17 @@
+[
+{"id":"A01","question":"What is the normal attendance requirement?","expected_status":"ANSWERABLE"},
+{"id":"A02","question":"What documents are needed for medical concession?","expected_status":"ANSWERABLE"},
+{"id":"A03","question":"What is the semester tuition deadline?","expected_status":"ANSWERABLE"},
+{"id":"A04","question":"How long do I have to request revaluation?","expected_status":"ANSWERABLE"},
+{"id":"A05","question":"What is the hostel fee deadline?","expected_status":"ANSWERABLE"},
+{"id":"A06","question":"What is the grievance first step?","expected_status":"ANSWERABLE"},
+{"id":"A07","question":"What can happen for academic misconduct?","expected_status":"ANSWERABLE"},
+{"id":"A08","question":"What is needed for a scholarship application?","expected_status":"ANSWERABLE"},
+{"id":"A09","question":"Can revaluation change a mark downward?","expected_status":"ANSWERABLE"},
+{"id":"A10","question":"Who reviews attendance exceptions?","expected_status":"ANSWERABLE"},
+{"id":"A11","question":"What should visitors do in the hostel?","expected_status":"ANSWERABLE"},
+{"id":"A12","question":"How many working days are allowed for a grievance?","expected_status":"ANSWERABLE"},
+{"id":"A13","question":"What does the interpretation section recommend when rules conflict?","expected_status":"ANSWERABLE"},
+{"id":"A14","question":"What is the examination fee deadline?","expected_status":"ANSWERABLE"},
+{"id":"A15","question":"What is required for a record correction request?","expected_status":"ANSWERABLE"}
+]

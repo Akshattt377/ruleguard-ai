@@ -1,0 +1,5 @@
+[
+{"id":"C01Q","question":"Can I sit for exams with 68% attendance and medical leave?","expected_status":"CONTRADICTION"},
+{"id":"C02Q","question":"Does submitting a hardship request extend my fee deadline?","expected_status":"CONTRADICTION"},
+{"id":"C03Q","question":"Can I appeal directly to the Dean before the grievance committee decides?","expected_status":"CONTRADICTION"}
+]
